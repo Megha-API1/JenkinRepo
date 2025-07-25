@@ -17,7 +17,7 @@
 				<configuration>
 					<suiteXmlFiles>
 						<suiteXmlFile>testng_ST.xml</suiteXmlFile>
-						<suiteXmlFile>tesng_RT</suiteXmlFile>
+						<suiteXmlFile>testng_RT</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
